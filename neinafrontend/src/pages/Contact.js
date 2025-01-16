@@ -16,24 +16,24 @@ const Contact = () => {
           <div className={styles.contactItem}>
             <FaEnvelope className={styles.icon} />
             <div>
-              <span className={styles.contactText}>bhuvantenguria37@gmail.com</span>
-              <a href="mailto:bhuvantenguria37@gmail.com" className={styles.contactLink}>Send an Email</a>
+              <span className={styles.contactText}>deepanshigarg0808@gmail.com</span>
+              <a href="mailto:deepanshigarg0808@gmail.com" className={styles.contactLink}>Send an Email</a>
             </div>
           </div>
           
           <div className={styles.contactItem}>
             <FaPhone className={styles.icon} />
             <div>
-              <span className={styles.contactText}>+91 8433076329</span>
-              <a href="tel:+918433076329" className={styles.contactLink}>Call Me</a>
+              <span className={styles.contactText}>+91 7505644760</span>
+              <a href="tel:+917505644760" className={styles.contactLink}>Call Me</a>
             </div>
           </div>
           
           <div className={styles.contactItem}>
             <FaLinkedin className={styles.icon} />
             <div>
-              <span className={styles.contactText}>Bhuvan Tenguria</span>
-              <a href="https://www.linkedin.com/in/bhuvan-tenguria-71902b238/" className={styles.contactLink} target="_blank" rel="noopener noreferrer">
+              <span className={styles.contactText}>Deepanshi Garg</span>
+              <a href="https://www.linkedin.com/in/deepanshi-garg-320b0a220/" className={styles.contactLink} target="_blank" rel="noopener noreferrer">
                 View LinkedIn Profile <FaExternalLinkAlt />
               </a>
             </div>
@@ -42,9 +42,9 @@ const Contact = () => {
           <div className={styles.contactItem}>
             <FaExternalLinkAlt className={styles.icon} />
             <div>
-              <span className={styles.contactText}>Portfolio</span>
-              <a href="https://bhuvantenguria.com" className={styles.contactLink} target="_blank" rel="noopener noreferrer">
-                View Portfolio <FaExternalLinkAlt />
+              <span className={styles.contactText}>Github</span>
+              <a href="https://github.com/deepanshigarg08" className={styles.contactLink} target="_blank" rel="noopener noreferrer">
+                View Github <FaExternalLinkAlt />
               </a>
             </div>
           </div>
