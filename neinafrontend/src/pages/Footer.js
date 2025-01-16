@@ -10,8 +10,8 @@ const Footer = () => {
         <div className={styles.contactInfo}>
           <h3>Contact Us</h3>
           <p>Mathura, Uttar Pradesh, India</p>
-          <p>Email: bhuvantenguria37@gmail.com</p>
-          <p>Phone: +91 8433076329</p>
+          <p>Email: deepanshigarg0808@gmail.com</p>
+          <p>Phone: +91 7505644760</p>
         </div>
 
         <div className={styles.socialMedia}>
